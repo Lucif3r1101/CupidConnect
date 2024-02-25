@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225240158453",
+    "project_id": "cupidconnect-7078f",
+    "storage_bucket": "cupidconnect-7078f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225240158453:android:ec573b5a7a1a2db674f5bc",
+        "android_client_info": {
+          "package_name": "com.rishav.cupidconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCUrhFozxmjX9q6yD_LCettE4b8ImBtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
