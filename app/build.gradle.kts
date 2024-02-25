@@ -69,13 +69,19 @@ dependencies {
     //Third party library
     implementation("com.tbuonomo:dotsindicator:5.0")
 
+    implementation("androidx.activity:activity-ktx:1.8.2")
+
+    //Navigation
+    implementation("androidx.navigation:navigation-compose:2.7.7")
+
+    //Image Cropper
+    implementation("com.vanniktech:android-image-cropper:4.5.0")
     //Firebase
     implementation(platform("com.google.firebase:firebase-bom:32.7.2"))
     implementation("com.google.firebase:firebase-analytics")
-    implementation("com.google.firebase:firebase-auth-ktx:21.0.1")
-    implementation("com.google.firebase:firebase-database-ktx:20.0.4")
-    implementation("com.google.firebase:firebase-storage-ktx:20.0.0")
-
+    implementation("com.google.firebase:firebase-auth-ktx:22.3.1")
+    implementation("com.google.firebase:firebase-database-ktx:20.3.0")
+    implementation("com.google.firebase:firebase-storage-ktx:20.3.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
